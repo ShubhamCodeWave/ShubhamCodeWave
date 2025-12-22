@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Shubham 👋
 
-<!--
-**ShubhamCodeWave/ShubhamCodeWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Python & Web Developer  
+♿ Focused on building accessible and inclusive software  
+🛠️ Interested in real-world projects and system-level tools  
+📍 India
 
-Here are some ideas to get you started:
+### Tech Stack
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Accessibility-first development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Python desktop tools
+- Web projects
+- Accessibility-focused applications
+
+### Goals
+- Build production-ready software
+- Contribute to open-source
+- Learn advanced system development
