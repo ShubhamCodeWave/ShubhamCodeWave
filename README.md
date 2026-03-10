@@ -1,81 +1,80 @@
-# Hi there! I'm Shubham Sharma 👋
+# Professional Profile: Shubham Sharma (ShubhamCodeWave) 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=beveled&color=auto&height=200&section=header&text=Shubham%20Sharma&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=beveled&color=auto&height=200&section=header&text=Shubham%20Sharma&fontSize=70&animation=fadeIn" alt="Header image showing the name Shubham Sharma in a stylish font" width="100%" />
 </div>
 
-## 🚀 Professional Profile
-I am a dedicated **Visually Impaired Developer** from India, driven by the mission to create technology that is inclusive and accessible to everyone. My journey in software development is fueled by curiosity and a commitment to building high-quality, practical tools.
+## 🚀 About Me
+I am a **Visually Impaired Developer** from India, specializing in **Python**, **Automation**, and **Inclusive Design**. I believe that technology should be a bridge, not a barrier. My goal is to build software that is 100% accessible to everyone, regardless of their physical abilities.
 
-- 👨‍💻 **Specialization**: Python Backend, Automation, & Accessibility-focused Software.
-- ♿ **Advocacy**: Passionate about **Web Accessibility (a11y)** and inclusive design.
-- 🛠️ **Current Focus**: Enhancing [Nexus-Vault](https://github.com/ShubhamCodeWave/Nexus-Vault) for ultimate data privacy.
-- ✉️ **Contact Me**: [shubham.ss06543@gmail.com](mailto:shubham.ss06543@gmail.com)
+- ♿ **Accessibility Advocate**: Expert in building ARIA-compliant and screen-reader-friendly applications.
+- 🐍 **Python Enthusiast**: Passionate about backend logic, security, and automation.
+- ✉️ **Contact**: [shubham.ss06543@gmail.com](mailto:shubham.ss06543@gmail.com)
+- 📍 **Location**: India
 
 ---
 
-## 🛠 Tech Expertise
-
-### 💻 Languages & Logic
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🔧 Tools & Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+## ♿ My Developer Setup
+*To my fellow screen-reader users: I primarily use high-contrast themes and audio-feedback tools to navigate code efficiently.*
+- **IDE**: VS Code with Accessibility Features enabled.
+- **Screen Readers**: Proficient with NVDA and Narrator.
+- **Terminal**: PowerShell & Git Bash with customized audio cues.
 
 ---
 
-## 📊 Performance Metrics
+## 🛠 Tech Stack & Skills
+
+### 💻 Programming & Web
+- **Languages**: Python (Advanced), JavaScript, HTML5, CSS3.
+- **Backend**: FastAPI, Express.js (Learning), Automation Scripts.
+- **Accessibility**: WCAG Guidelines, WAI-ARIA, Semantic HTML.
+
+### 🔧 Tools & Platforms
+- **Version Control**: Git & GitHub (Expert CLI user).
+- **Security**: AES-256 Encryption (Nexus-Vault).
+- **Other**: Linux, Postman, Web APIs.
+
+---
+
+## 🌟 Featured Projects
+
+### 🔒 [Nexus-Vault](https://github.com/ShubhamCodeWave/Nexus-Vault)
+A professional-grade file vault using **AES-256 encryption**. Built for security-conscious users who need a reliable way to protect sensitive data via a sleek CLI.
+
+### 🔱 [Titan Supreme v8.5 Pro](https://github.com/ShubhamCodeWave/yt-telegram-downloader)
+An elite Telegram bot for downloading media from 100+ platforms. Features asynchronous processing, multi-language support (Hindi/English), and automated server maintenance.
+
+---
+
+## 📊 Performance & Impact
+*The following sections contain graphical statistics of my GitHub activity. I have provided descriptive alt-text for accessibility.*
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShubhamCodeWave&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Shubham's GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamCodeWave&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Langs" height="180px" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamCodeWave&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Shubham's GitHub Stats: Showing total commits, stars, and pull requests" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamCodeWave&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages: Python is the most used language, followed by JavaScript and HTML" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamCodeWave&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamCodeWave&theme=tokyonight" alt="GitHub Contribution Streak: Visual graph showing consistent coding activity" width="100%" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Global Recognition
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamCodeWave&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamCodeWave&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies: Rewards for multiple commits, repository creation, and longevity" />
 </div>
 
 ---
 
-## 📫 Let's Connect
-<div align="left">
-  <a href="mailto:shubham.ss06543@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://shubham-sharma.great-site.net">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
+## 📫 Connect & Collaborate
+- 📧 **Email**: [shubham.ss06543@gmail.com](mailto:shubham.ss06543@gmail.com)
+- 🌐 **Portfolio**: [shubham-sharma.great-site.net](https://shubham-sharma.great-site.net)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com)
 
 ---
 <div align="center">
-  <sub>Built with precision and passion by <b>Shubham Sharma</b>. 🦾</sub>
+  <img src="https://komarev.com/ghpvc/?username=ShubhamCodeWave&color=blueviolet" alt="Profile Visitor Counter" />
+  <br/>
+  <sub>Built for Accessibility. Driven by Passion. 🦾</sub>
 </div>
