@@ -1,99 +1,65 @@
-# Hi there 👋 I'm Shubham Sharma
+# Hi there! I'm Shubham Sharma 👋
 
-I'm a student developer from India who enjoys building practical software and experimenting with new technologies. I started programming out of curiosity and gradually developed a strong interest in **Python, web development, and automation tools**.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shubham%20Sharma&fontSize=80" width="100%" />
+</div>
 
-Over time, I’ve also become interested in **accessibility-focused development**, because I believe technology should be usable by everyone. I like creating tools that solve real problems and make everyday tasks easier.
+## 🚀 About Me
+I'm a **Student Developer** from India with a passion for building **Practical Software**, **Automation Tools**, and **Accessibility-focused** applications. I love solving real-world problems through code.
 
----
-
-## What I Work With
-
-Most of my projects are built around the following technologies:
-
-**Languages**
-
-* Python
-* HTML
-* CSS
-* JavaScript
-
-**Development Areas**
-
-* Web Development
-* Automation Tools
-* Telegram Bot Development
-* Accessibility-focused Software
-
-**Tools & Platforms**
-
-* Git & GitHub
-* Command Line Tools
-* Web APIs
-
-I’m continuously learning new programming languages and development techniques as I explore different areas of software development.
+- 🛠️ Currently working on: **[Nexus-Vault](https://github.com/ShubhamCodeWave/Nexus-Vault)** (Secure File Management)
+- 🌱 Learning: **Advanced Python**, **Backend Architecture**, and **Modern Web Frameworks**
+- 🎯 Goals: Contribute to **Open Source** and build software that makes a difference.
 
 ---
 
-## My Favorite Field: Web Development
+## 🛠 Tech Stack
 
-Web development is the area I enjoy the most. I like building modern websites and web applications using clean structure, responsive layouts, and practical functionality.
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-I enjoy working with:
-
-* Modern front-end development practices
-* Interactive web interfaces
-* Backend logic using Python
-* Real-world web tools and utilities
-
-I’m especially interested in learning and experimenting with **modern web technologies and frameworks** as I continue improving my skills.
-
----
-
-## Projects I Like Building
-
-Some of the types of projects I enjoy working on include:
-
-* Python desktop utilities
-* Telegram bots for automation and services
-* Web tools and web-based applications
-* Accessibility-friendly software
-* Practical scripts that simplify everyday tasks
-
-I prefer projects that have **real-world usefulness**, rather than just theoretical examples.
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## Currently Learning
+## 📊 GitHub Stats
 
-Right now I'm focused on improving my knowledge in:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamCodeWave&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Shubham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamCodeWave&layout=compact&theme=radical&hide_progress=true" alt="Top Langs" />
+</div>
 
-* Advanced Python development
-* Modern web technologies
-* Backend development concepts
-* Software architecture and project structure
-
-Learning is an ongoing process for me, and I enjoy exploring new tools and ideas regularly.
-
----
-
-## Goals
-
-My long-term goals as a developer are:
-
-* Build reliable and production-ready software
-* Contribute to open-source projects
-* Develop tools that genuinely help people
-* Continue growing as a programmer and problem solver
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamCodeWave&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
-## About This Profile
-
-This GitHub profile is where I share my experiments, learning projects, and real tools that I build while exploring different areas of software development.
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamCodeWave&theme=radical" alt="GitHub Trophies" />
+</div>
 
 ---
 
-📍 India
-🌐 Website: https://shubham-sharma.great-site.net
+## 📫 Connect with me
+<div align="left">
+  <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shubham.ss06543@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://shubham-sharma.great-site.net" target="blank"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</div>
 
-Thanks for visiting my profile.
+---
+*Built with ❤️ by Shubham Sharma*
