@@ -23,6 +23,7 @@ Building accessible tools and real-world projects. Passionate about creating tec
 ### 📫 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shub4595)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://shubham-sharma.great-site.net)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.ss06543@gmail.com)
 
 ---
 
