@@ -28,5 +28,5 @@ Building accessible tools and real-world projects. Passionate about creating tec
 ---
 
 ### 🔭 Currently working on:
-- **[Yuvakriti](https://github.com/ShubhamCodeWave/yuvakriti)** - A youth-driven movement for accessibility.
 - Improving my Python & Data Science skills.
+- Exploring high-security CLI tools.
