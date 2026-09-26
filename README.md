@@ -1,86 +1,100 @@
-# Hi, I'm Shubham
+# Hi, I'm Shubham 👋
 
-Full Stack Developer and Python Developer  
-Technical Operations Lead at DivyaAbility Foundation
+I'm a student at **ARSD College, University of Delhi** and a programmer who enjoys building websites and working on real-world projects.
 
-I build real-world web applications, backend systems, and automation tools that solve practical problems. I handle complete development from idea to deployment and manage everything on the technical side.
+I'm currently working as a **Digital Tech Lead Intern at Divyaability Foundation**. I also do **freelance web development** and build websites and web solutions for people and businesses.
+
+I like learning new things, trying out different technologies, and turning ideas into working projects.
 
 ---
 
 ## What I Do
 
-- Build full-stack applications (frontend, backend, database)
-- Design backend systems and APIs
-- Develop automation tools using Python
-- Handle deployment and system setup
-- Manage complete technical operations and platforms
+* Build websites and web applications
+* Work on frontend and backend development
+* Build databases and APIs
+* Work on real-world projects
+* Handle deployment and technical setup
+* Build and improve websites for clients
+* Work on automation and useful tools
 
 ---
 
 ## Experience
 
-Technical Operations Lead — DivyaAbility Foundation
+### Digital Tech Lead Intern — Divyaability Foundation
 
-I am responsible for building and managing the entire technical system of the organization.
+I work on the technical side of the organization and help build and maintain its digital platforms.
 
-- Built a complete LMS (Learning Management System) for students  
-- Developed a CMS for managing content and courses  
-- Created a scribe booking portal for visually impaired users  
-- Designed database architecture and backend systems  
-- Handled deployment and system setup  
-- Managing new features and platform improvements continuously  
+Some of the things I've worked on:
 
----
-
-## Projects
-
-### LMS and Learning Platform  
-A full system where students can access courses, content, and structured learning.
-
-### Scribe Booking Portal  
-A real-world solution that helps visually impaired users connect with scribes.
-
-### File Transfer System (Python)  
-A system where users can send files using a secure link and receive them directly on a system over the internet.
+* Learning Management System (LMS)
+* Content Management System (CMS)
+* Scribe booking platform
+* Course and learning platforms
+* Database and backend systems
+* Website features and improvements
+* Deployment and server setup
 
 ---
 
-## Tech Stack
+## Freelancing
 
-**Languages**  
-Python, JavaScript, PHP  
+I also work on websites and web projects for clients.
 
-**Frontend**  
-HTML, CSS, Bootstrap, Tailwind CSS, React, Angular  
-
-**Backend**  
-Node.js, Next.js, PHP, Python  
-
-**Database**  
-MySQL, MongoDB  
-
-**Other**  
-System Design, Deployment, API Integration, Automation  
+I enjoy taking an idea from the beginning and turning it into a working website that people can actually use.
 
 ---
 
-## Focus
+## Some Projects
 
-- Backend development and system design  
-- Python automation tools  
-- Building real-world useful systems  
-- Writing clean and scalable code  
+### Learning Management System
+
+A platform where students can explore courses, access lessons and manage their learning.
+
+### Scribe Booking Platform
+
+A platform designed to help visually impaired users connect with scribes.
+
+### File Transfer System
+
+A Python-based project that allows users to send files through a link and receive them over the internet.
+
+### Client Websites
+
+I also build and maintain websites for clients and businesses as part of my freelance work.
 
 ---
 
-## Connect
+## Technologies I Work With
 
-- Twitter: https://x.com/shub4595  
-- LinkedIn: https://www.linkedin.com/in/shubhamcodewave/  
-- Email: shubham.ss06543@gmail.com  
+**Languages**
+
+C++ • Python • JavaScript • PHP
+
+**Frontend**
+
+HTML • CSS • Bootstrap • Tailwind CSS • React • Angular
+
+**Backend**
+
+Node.js • PHP • Python
+
+**Databases**
+
+MySQL • MongoDB
+
+**Other**
+
+APIs • Git & GitHub • Deployment • Automation
 
 ---
 
-## Note
+## What I'm Learning
 
-Most of my work is currently in development and production environments. I will keep updating my repositories with code and projects.
+I'm currently focused on improving my development skills, building more real-world projects, and learning how to create better and more accessible websites.
+
+---
+
+
+Thanks for visiting my profile! 🚀
